@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\bin\Debug\net8.0\adaptiveMathQuiz.exe
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\bin\Debug\net8.0\adaptiveMathQuiz.deps.json
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\bin\Debug\net8.0\adaptiveMathQuiz.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\bin\Debug\net8.0\adaptiveMathQuiz.dll
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\bin\Debug\net8.0\adaptiveMathQuiz.pdb
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.sourcelink.json
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.dll
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\refint\adaptiveMathQuiz.dll
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.pdb
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\adaptiveMathQuiz.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\adaptiveMathQuiz\obj\Debug\net8.0\ref\adaptiveMathQuiz.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj",
         "projectName": "adaptiveMathQuiz",
-        "projectPath": "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\adaptiveMathQuiz.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\adaptiveMathQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
